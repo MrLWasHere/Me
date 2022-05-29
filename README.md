@@ -7,8 +7,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding=0;width=100%;">
-      <h4>Github Visitor Count</h1>
+
     </td>
     <td align="center" style="padding=0;width=100%;">
       <img align="center" style="padding=0;" src="https://profile-counter.glitch.me/MrLWasHere/count.svg" />
